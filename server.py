@@ -1,4 +1,5 @@
 print("welcome guyzzzzzzzzzz")
+print("ye badiya tha guru")
 User={}
 Passs={}
 FACULTY=["1","FACULTY2","FACULTY3","FACULTY4"]
