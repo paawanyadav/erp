@@ -1,7 +1,7 @@
 from server import *
 import random as r
 import requests
-print("ok")
+
 def confirmation(w,mobile):
     url= "https://www.fast2sms.com/dev/bulk"
     num=mobile
